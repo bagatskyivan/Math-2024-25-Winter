@@ -1,1 +1,1 @@
-# 24_Taylor_and_Maclaurin_Series
+# 24_Taylor_Series
