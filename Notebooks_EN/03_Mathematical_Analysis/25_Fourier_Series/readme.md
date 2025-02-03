@@ -1,1 +1,1 @@
-# 25_Fourier_Series
+# 25_Differntial_Equations
